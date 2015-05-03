@@ -1,0 +1,26 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "A sample test for Pager Duty",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frank-dall/node-test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Frank Dallezotte",
+  "license": "N/A",
+  "bugs": {
+    "url": "https://github.com/frank-dall/node-test/issues"
+  },
+  "homepage": "https://github.com/frank-dall/node-test",
+  "dependencies": {
+    "bunyan": "^1.3.5",
+    "restify": "^3.0.2"
+  }
+}
